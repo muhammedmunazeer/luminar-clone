@@ -1,0 +1,12 @@
+div{
+    background-color: burlywood;
+    width: 100;
+    height: 200;
+    color: cornflowerblue;
+    border: 8px ridge crimson;
+    /* margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 20px; */
+    margin: 30px 50px 60px ;
+}
+

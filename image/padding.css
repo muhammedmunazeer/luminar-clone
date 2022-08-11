@@ -1,0 +1,20 @@
+div{
+    background-color: rgb(255, 221, 0);
+    width: 200px;
+    height: 400px;
+    padding: 40px 30px 50px;
+}
+div h1{
+    color: rgb(62, 26, 244);
+    text-shadow: 2px 5px 8px;
+}
+
+div p{
+    color: brown;
+   
+}
+
+div #p1 span{
+    color: crimson;
+    text-decoration: line-through;
+}
